@@ -30,8 +30,8 @@ img_lottie_animation = Image.open("images/seminar.jpeg")
 
 # ---- HEADER SECTION ----
 with st.container():
-    st.subheader("Mari kita memberikan bantuan :wave:")
-    st.title("Donasi Pembangunan Krematorium dan Rumah Duka")
+    st.subheader("Ayo kita berdonasi ! :wave:")
+    st.title("Sumbangan Sukarela Pembangunan Krematorium dan Rumah Duka")
     st.write(
         " Pembangunan Rumah Duka dan Kreamtorium di Desa Adat Banyuasri Singaraja Buleleng Bali oleh yayasan Satya Dharma Utama ,telah dilaksanakan sekitar 80 persen dari rencana membutuhkan dukungan dari masyarakt luas untuk menyempurnakan"
     )
@@ -42,19 +42,14 @@ with st.container():
     st.write("---")
     left_column, right_column = st.columns(2)
     with left_column:
-        st.subheader("Pelatihan Gelombang Petama  27 dan 28 Januari 2023 di Kedai KOSIM Kertosono Nganjuk Jawa Timur")
+        st.subheader("Pembangunan Krematorium dan Rumah Duka Meliputi :")
         st.write("##")
         st.write(
             """
-            Seminar dapat diikuti secara online dan offline di Kedai Kosim Kertosono mulai pukul 09.00 W.I.B
-            dengan ketentuan :
-            HTM offline : Rp. 75.000 (include snack dan coffe break)
-            HTM Online  : Rp. 50.000 (include voucer kedai Kosim)
-            Sertifikat keikut sertaan seminar dengan keterampilan dasar web programing website Laravel 
-            Bimbingan Konsultasi pembuatan website bila telah memiliki domain hosting sendiri
-            Keanggotaan Komunitas Laravel Jawa Timur
-            HTM ditransfer ke rekening Made Sukawardika BCA 0900881070 , lampirkan bukti transfer pada form pendaftaran sesuai dengan pilihan online atau offline
-         
+            1. Pembangunan Ruang Inceneratot mesin Pembakaran
+            2. Pembangunan Rumah Duka
+            3. Pembangunan Ruang Pendeta 
+                    
             """
         )
        
