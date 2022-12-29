@@ -35,7 +35,7 @@ with st.container():
     st.write(
         " Donasi dapat dikirimkan kepada Nomor Rekening Bank Mandiri KCP Singaraja 145-00- 1310040-5 Panitia Pembangunan Kreamtorium dan Rumah Duka"
     )
-    st.write("[www.pttus.co.id ](https://pttus.co.id)")
+    st.write("[www.yayasansdu.com ](https://#)")
 
 # ---- WHAT I DO ----
 with st.container():
