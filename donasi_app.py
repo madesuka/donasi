@@ -25,8 +25,8 @@ local_css("style/style.css")
 
 # ---- LOAD ASSETS ----
 lottie_coding = load_lottieurl("https://assets5.lottiefiles.com/packages/lf20_fcfjwiyb.json")
-img_contact_form = Image.open("images/rekkrema.jpeg")
-img_lottie_animation = Image.open("images/krematorium.jpeg")
+img_contact_form = Image.open("images/krematorium.jpeg")
+img_lottie_animation = Image.open("images/rekkrema.jpeg")
 
 # ---- HEADER SECTION ----
 with st.container():
