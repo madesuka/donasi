@@ -33,7 +33,7 @@ with st.container():
     st.subheader("Ayo kita berdonasi secara online ! :wave:")
     st.title("Sumbangan Sukarela Pembangunan Krematorium dan Rumah Duka")
     st.write(
-        " Pembangunan Rumah Duka dan Kreamtorium di Desa Adat Banyuasri Singaraja Buleleng Bali oleh yayasan Satya Dharma Utama ,telah dilaksanakan sekitar 80 persen dari rencana membutuhkan dukungan dari masyarakt luas untuk menyempurnakan"
+        " Donasi dapat dikirimkan kepada Nomor Rekening Bank Mandiri KCP Singaraja 145-00- 1310040-5 Panitia Pembangunan Kreamtorium dan Rumah Duka"
     )
     st.write("[www.pttus.co.id ](https://pttus.co.id)")
 
@@ -46,7 +46,7 @@ with st.container():
         st.write("##")
         st.write(
             """
-            1. Pembangunan Ruang Inceneratot mesin Pembakaran
+            1. Pembangunan Ruang Incenerator mesin Pembakaran
             2. Pembangunan Rumah Duka
             3. Pembangunan Ruang Pendeta 
             4. Pembangunan Pendopo atau hall
