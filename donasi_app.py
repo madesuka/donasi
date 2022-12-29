@@ -109,7 +109,7 @@ with st.container():
         <input type="text" name=" Besar Sumbangan Rp. " placeholder=" ketik besar sumbangan" required>
         <textarea name="Alamat" placeholder=" Alamat lengkap  secara jelas" required></textarea>
         <input type="file" name="attachment" accept="image/png, image/jpeg">
-        <button type="submit">Send /Kirim</button>
+        <button type="submit">Kirim</button>
     </form>
     """
     left_column, right_column = st.columns(2)
