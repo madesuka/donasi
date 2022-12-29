@@ -62,7 +62,7 @@ with st.container():
 # ---- PROJECTS ----
 with st.container():
     st.write("---")
-    st.header(" Even Community Laravel Jatim :")
+    st.header(" Latar Belakang Pembangunan Rumah Duka dan Krematorium :")
     st.write("##")
     image_column, text_column = st.columns((1, 2))
     with image_column:
