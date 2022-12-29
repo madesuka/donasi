@@ -87,7 +87,11 @@ with st.container():
         st.subheader("Peralatan Incerenator ")
         st.write(
             """
-            Telah terpasang peralatan incenerator 
+            1. Telah terpasang peralatan incenerator atau peralatan pembakaran jenazah
+            2. Tersedia mobil ambulance jenazah
+            3. Konstruksi pembangunan rumah duka dan sarana lainnya
+            4. Balai tempat prosesi adat
+            5. Fasiltas para pelayat dan tempat penempatan sesajen
             """
         )
         st.markdown("[Tonton Design Krematorium](https://www.youtube.com/watch?v=SnMsYJ9zgtI)")
