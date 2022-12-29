@@ -30,7 +30,7 @@ img_lottie_animation = Image.open("images/seminar.jpeg")
 
 # ---- HEADER SECTION ----
 with st.container():
-    st.subheader("Ayo kita berdonasi ! :wave:")
+    st.subheader("Ayo kita berdonasi secara online ! :wave:")
     st.title("Sumbangan Sukarela Pembangunan Krematorium dan Rumah Duka")
     st.write(
         " Pembangunan Rumah Duka dan Kreamtorium di Desa Adat Banyuasri Singaraja Buleleng Bali oleh yayasan Satya Dharma Utama ,telah dilaksanakan sekitar 80 persen dari rencana membutuhkan dukungan dari masyarakt luas untuk menyempurnakan"
@@ -49,6 +49,9 @@ with st.container():
             1. Pembangunan Ruang Inceneratot mesin Pembakaran
             2. Pembangunan Rumah Duka
             3. Pembangunan Ruang Pendeta 
+            4. Pembangunan Pendopo atau hall
+            5. Pembangunan Pagar keliling
+            6. Pengadaan Instalasi listrik
                     
             """
         )
@@ -65,15 +68,14 @@ with st.container():
     with image_column:
         st.image(img_lottie_animation)
     with text_column:
-        st.subheader("Seminar Web Programming")
+        st.subheader("Krematorium dan Rumah Duka di Desa Adat Banyuasri Buleleng Bali")
         st.write(
             """
-            Seminar dan workshop pembuatan website dengan bahasa pemrograman Framework PHP Laravel,
-            meliputi teori dasar dan praktek pemuatan website sederhana, dan latihan deploy ke cpanel domain hosting :
-            1. Modul dasar pemrograman dan setting lingkungan pemrograman
-            2. Prosedur dasar pembuatan web aplikasi
-            3. Pengembangan website dengan thema gratis download
-            4. Uji coba prosedur deploy atau upload web aplikasi Laravel ke share hosting atau C Panel
+            Bertujuan :
+            1. Menyediakan fasilitas umum dalam prosesi adat masyarakat hindu atau umat lain yg melakukan proses pembakaran jenazah
+            2. Memfasilitasi kebutuhan prosesi adat yg telah memenuhi syrata legal
+            3. Membantu masyarakat menyediakan sarana untuk dapat melakukan prosesi adat secara efisien dan terukur sesuai pedoman adat
+            4. Mendorong kemajuan masyarakat dalam melakukan upacara adat sesuai dengan perkembangan jaman
             """
         )
         
@@ -82,11 +84,10 @@ with st.container():
     with image_column:
         st.image(img_contact_form)
     with text_column:
-        st.subheader("Kedai Kopi Siang Malam Kertosono Nganjuk Jawa Timur ")
+        st.subheader("Peralatan Incerenator ")
         st.write(
             """
-            Kedai Kosim Kertosono pelopor cafe masakini, yang menyajikan minuman dan makanan yang berkualitas dan menjadi
-            tempat bukan sekedar nongkrong tetapi sekaligus meningkatkan pengetahuan 
+            Telah terpasang peralatan incenerator 
             """
         )
         st.markdown("[Tonton Design Krematorium](https://www.youtube.com/watch?v=SnMsYJ9zgtI)")
@@ -94,7 +95,7 @@ with st.container():
 # ---- CONTACT ----
 with st.container():
     st.write("---")
-    st.subheader("Silahkan daftar melalui form pesan ini,lampirkan foto bukti transfernya!")
+    st.subheader(" Para dermawan dapat mengisi form berikut ini dengan melampirkan besaran dana yg ditransfer berupa copy bukti transfer")
     st.write("##")
 
     # Documention: https://formsubmit.co/ !!! CHANGE EMAIL ADDRESS !!!
@@ -104,8 +105,8 @@ with st.container():
         <input type="text" name=" Nama" placeholder=" Nama Lengkap" required>
         <input type="email" name="Email" placeholder=" Email yang masih aktip" required>
         <input type="text" name="Telephone" placeholder=" Nomor HP" required>
-        <input type="text" name="Tanggal Sesi" placeholder=" Ketik Tanggal sesi yg diikuti 27 atau 28 Januari 2023" required>
-        <input type="text" name="Kelas " placeholder=" ketik pilihan online atau offline" required>
+        <input type="text" name=" Tanggal kirim" placeholder=" diisi tanggal dan tahun pengiriman donasi dg format tanggal bulan tahun " required>
+        <input type="text" name=" Besar Sumbangan Rp. " placeholder=" ketik besar sumbangan" required>
         <textarea name="Alamat" placeholder=" Alamat lengkap  secara jelas" required></textarea>
         <input type="file" name="attachment" accept="image/png, image/jpeg">
         <button type="submit">Send /Kirim</button>
