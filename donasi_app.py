@@ -55,6 +55,7 @@ with st.container():
             7. Pengadaan Instalasi listrik
             8. Pembangunan Utilitas Air Bersih , Limbah dan sampah
             9. Pembangunan Kantor Yayasan
+            10.Penataan kawasan tempat parkir pengunjung
                     
             """
         )
