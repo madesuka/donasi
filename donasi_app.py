@@ -62,7 +62,7 @@ with st.container():
 # ---- PROJECTS ----
 with st.container():
     st.write("---")
-    st.header(" Latar Belakang Pembangunan Rumah Duka dan Krematorium :")
+    st.subheader(" Latar Belakang Pembangunan Rumah Duka dan Krematorium :")
     st.write("##")
     image_column, text_column = st.columns((1, 2))
     with image_column:
@@ -96,7 +96,7 @@ with st.container():
             7. Sekretariat Yayasan SDU : Jln. Jenderal Sudirman No.1, Kelurahan Banyuasri, Singaraja phone sekretaris W.A : Dawika 085737057787
             """
         )
-        st.markdown("[Tonton Pembangunan Krematorium](https://www.youtube.com/watch?v=Nj_ev_evLPQ)")
+        st.markdown("[Tonton Informasi Pembangunan Krematorium](https://www.youtube.com/watch?v=Nj_ev_evLPQ)")
         
 # ---- CONTACT ----
 with st.container():
