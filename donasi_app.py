@@ -86,7 +86,7 @@ with st.container():
     with image_column:
         st.image(img_contact_form)
     with text_column:
-        st.subheader("Informasi tentang kegiatan Pembangunan Krematorium dan Rumah duka progress 80 % ")
+        st.subheader("Informasi tentang kegiatan Pembangunan Krematorium dan Rumah duka progress 70 % ")
         st.write(
             """
             1. Telah terpasang peralatan incenerator atau peralatan pembakaran jenazah
