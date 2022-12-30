@@ -74,7 +74,7 @@ with st.container():
             Bertujuan :
             1. Menyediakan fasilitas umum dalam prosesi adat masyarakat hindu atau umat lain yg melakukan proses pembakaran jenazah
             2. Memfasilitasi kebutuhan prosesi adat yg telah memenuhi syarat legal baik skala maupun niskala
-            3. Membantu masyarakat menyediakan sarana untuk dapat melakukan prosesi adat secara efisien dan terukur sesuai pedoman adat
+            3. Membantu masyarakat menyediakan sarana untuk dapat melakukan prosesi adat secara efisien dan terukur sesuai sastra agama
             4. Mendorong kemajuan masyarakat dalam melakukan upacara adat sesuai dengan perkembangan jaman
             """
         )
