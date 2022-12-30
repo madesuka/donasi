@@ -65,13 +65,13 @@ with st.container():
 # ---- PROJECTS ----
 with st.container():
     st.write("---")
-    st.subheader(" Latar Belakang Pembangunan Rumah Duka dan Krematorium :")
+    st.subheader("  Pembangunan Rumah Duka dan Krematorium :")
     st.write("##")
     image_column, text_column = st.columns((1, 2))
     with image_column:
         st.image(img_lottie_animation)
     with text_column:
-        st.subheader("Krematorium dan Rumah Duka di Desa Adat Banyuasri Buleleng Bali")
+        st.subheader("Latar Belakangnya :")
         st.write(
             """
             1) Menyediakan fasilitas umum dalam prosesi adat masyarakat hindu atau umat lain yg melakukan proses pembakaran jenazah
