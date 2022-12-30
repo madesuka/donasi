@@ -92,7 +92,7 @@ with st.container():
             3. Konstruksi pembangunan rumah duka dan sarana lainnya
             4. Balai tempat prosesi adat
             5. Fasiltas para pelayat dan tempat penempatan sesajen
-            6. Penanggung Jawab kegiatan pembangunan kreamtorium ini adalah Pembina Yayasan Satya Dharma Utama Brigjenpol Pur Gede Atang Wiguna 
+            6. Penanggung Jawab kegiatan pembangunan kreamtorium ini adalah Pembina Yayasan Satya Dharma Utama Brigjenpol Pur. Drs. Gede Atang Wiguna, SH
             """
         )
         st.markdown("[Tonton Design Krematorium](https://www.youtube.com/watch?v=SnMsYJ9zgtI)")
