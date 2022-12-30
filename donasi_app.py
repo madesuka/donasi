@@ -31,7 +31,7 @@ img_lottie_animation = Image.open("images/rekkrema1.jpeg")
 # ---- HEADER SECTION ----
 with st.container():
     st.subheader("Ayo berdonasi secara online ! :wave:")
-    st.title("Berdana Punia Bersama Yayasan Satya Dharma Utama dan PP POLRI BALI didukung Desa Adat Banyuasri Singaraja Bali")
+    st.header("Berdana Punia Bersama Yayasan Satya Dharma Utama dan PP POLRI BALI didukung Desa Adat Banyuasri Singaraja Bali")
     st.write(
         " Donasi dapat dikirimkan kepada Nomor Rekening Bank Mandiri KCP Singaraja 145-00- 1310040-5 Panitia Pembangunan Kreamtorium dan Rumah Duka "
     )
