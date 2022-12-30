@@ -48,7 +48,7 @@ with st.container():
             """
             1. Pembangunan Rumah Duka
             2. Pembangunan Ruangan Incenerator pembakaran jenazah
-            3. Pembangunan Ruang Pendeta 
+            3. Pembangunan fasilitas tempat Pendeta memimpin prosesi ritual 
             4. Pembangunan Fasilitas  Upacara Militer dan Adat
             5. Pembangunan Pagar keliling
             6. Pengadaan Instalasi listrik
