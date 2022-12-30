@@ -93,7 +93,7 @@ with st.container():
             4. Balai tempat prosesi adat
             5. Fasiltas para pelayat dan tempat penempatan sesajen
             6. Penanggung Jawab kegiatan pembangunan kreamtorium ini adalah Ketua Yayasan Satya Dharma Utama (Yayasan SDU) Brigjen Pol (Prn) Drs. Gede Atang Wiguna, SH
-            7. Sekretariat : Jln. Jenderal Sudirman No.1, Kelurahan Banyuasri, Singaraja
+            7. Sekretariat Yayasan SDU : Jln. Jenderal Sudirman No.1, Kelurahan Banyuasri, Singaraja
             """
         )
         st.markdown("[Tonton Pembangunan Krematorium](https://www.youtube.com/watch?v=Nj_ev_evLPQ)")
