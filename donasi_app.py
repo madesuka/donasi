@@ -46,12 +46,13 @@ with st.container():
         st.write("##")
         st.write(
             """
-            1. Pembangunan Ruang Incenerator mesin Pembakaran
-            2. Pembangunan Rumah Duka
+            1. Pembangunan Rumah Duka
+            2. Pembangunan Ruangan Incenerator pembakaran jenazah
             3. Pembangunan Ruang Pendeta 
-            4. Pembangunan Pendopo atau hall
+            4. Pembangunan Fasilitas  Upacara Militer dan Adat
             5. Pembangunan Pagar keliling
             6. Pengadaan Instalasi listrik
+            7. Pembangunan Utilitas Air Bersih , Limbah dan sampah
                     
             """
         )
