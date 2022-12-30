@@ -110,7 +110,7 @@ with st.container():
         <input type="text" name=" Nama" placeholder=" Nama Lengkap" required>
         <input type="email" name="Email" placeholder=" Email yang masih aktip" required>
         <input type="text" name="Telephone" placeholder=" Nomor HP" required>
-        <input type="text" name=" Tanggal kirim" placeholder=" diisi tanggal dan tahun pengiriman donasi dg format tanggal bulan tahun " required>
+        <input type="text" name=" Tanggal kirim" placeholder=" diisi tanggal bulan dan tahun kirim donasi  " required>
         <input type="text" name=" Besar Sumbangan Rp. " placeholder=" ketik besar sumbangan" required>
         <textarea name="Alamat" placeholder=" Alamat lengkap  secara jelas" required></textarea>
         <input type="file" name="attachment" accept="image/png, image/jpeg">
