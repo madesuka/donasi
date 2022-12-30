@@ -53,10 +53,9 @@ with st.container():
             5. Pembangunan ruang gambelan
             6. Pembangunan Pagar keliling
             7. Pengadaan Instalasi listrik
-            8. Pembangunan Utilitas Air Bersih , Limbah dan sampah
+            8. Pembangunan Utilitas Air Bersih , Limbah dan sampah dan penataan parkir
             9. Pembangunan Kantor Yayasan
-            10.Penataan kawasan tempat parkir pengunjung
-                    
+                                
             """
         )
        
