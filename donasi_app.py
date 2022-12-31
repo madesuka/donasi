@@ -103,7 +103,7 @@ with st.container():
 # ---- CONTACT ----
 with st.container():
     st.write("---")
-    st.subheader(" Para donatur mengisi form ini dengan melampirkan foto bukti besaran dana yg ditransfer ")
+    st.subheader(" Para donatur diharap mengisi form ini dengan melampirkan foto bukti besaran dana yg ditransfer ")
     st.write("##")
 
     # Documention: https://formsubmit.co/ !!! CHANGE EMAIL ADDRESS !!!
